@@ -2,8 +2,10 @@
 Proyecto Final - Lenguajes de Programación 
 
 Asignación: Lenguajes de programación y transducción
+Grupo 02
 
 Docente: Joaquin F. Sánchez
+Integrantes del grupo: Valentina Andrade - Mateo Patiño - Nicolás Ramírez
 
 Trabajo: Parcial Lenguajes de programación - Segundo corte
 
