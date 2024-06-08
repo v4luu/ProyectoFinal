@@ -1,0 +1,11 @@
+x = []
+y = []
+for i = -50 .. 50 + 1 : {
+    x.append(i/10)
+    x.append(i/10)
+    y.append(sin(i/10))
+    y.append(cos(i/10))
+}
+print(x)
+print(y)
+graf("Coseno y seno" , x, y , "puntos")
