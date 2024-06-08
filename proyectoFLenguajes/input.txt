@@ -1,7 +1,0 @@
-def sum():{
-   re = num + numa
-}
-
-num=1
-numa=2
-print{sum(num, numa)}
